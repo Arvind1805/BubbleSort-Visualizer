@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 80%;
+    height: 75vh;
+    margin-top: 20px;
+}
+
+.bar {
+    background-color: black;
+    width: 20px;
+    margin: 1px;
+    display: inline-block;
+    transition: height 0.3s ease;
+}
+
