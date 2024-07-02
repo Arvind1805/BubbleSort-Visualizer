@@ -5,7 +5,7 @@ This project implements a visualizer for the Bubble Sort algorithm using HTML, C
 The visualizer provides a graphical representation of how Bubble Sort operates on an array of randomly generated elements. Each step of the sorting process is visually displayed to demonstrate how elements move and swap positions until the entire array is sorted.
 
 <h3>Demo</h3>
-You can view a live demo of the Bubble Sort Visualizer here (replace with your live demo link).
+You can view a live demo of the Bubble Sort Visualizer here <a href="https://arvind1805.github.io/BubbleSort-Visualizer/">https://arvind1805.github.io/BubbleSort-Visualizer/</a>.
 
 
 <h3>Features</h3><hr>
