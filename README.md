@@ -9,9 +9,9 @@ You can view a live demo of the Bubble Sort Visualizer here (replace with your l
 
 
 <h3>Features</h3><hr>
-- Generates a random array of elements for sorting.
-- Animates the sorting process step by step using colors and transitions to visualize element comparisons and swaps.
-- Provides controls to start and reset the sorting process.
+- Generates a random array of elements for sorting.<br>
+- Animates the sorting process step by step using colors and transitions to visualize element comparisons and swaps.<br>
+- Provides controls to start and reset the sorting process.<br>
 
 <h3>Contribution are always welcome!</h3>
 If you would like to contribute to this project, please follow these steps:
