@@ -1,4 +1,5 @@
-<h1>Bubble Sort Visualizer<h1>
+<h1>Bubble Sort Visualizer</h1>
+  
 This project implements a visualizer for the Bubble Sort algorithm using HTML, CSS, and JavaScript. Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The algorithm passes through the list multiple times until the list is sorted.
 
 The visualizer provides a graphical representation of how Bubble Sort operates on an array of randomly generated elements. Each step of the sorting process is visually displayed to demonstrate how elements move and swap positions until the entire array is sorted.
