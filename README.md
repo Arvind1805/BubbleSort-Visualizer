@@ -8,7 +8,7 @@ The visualizer provides a graphical representation of how Bubble Sort operates o
 You can view a live demo of the Bubble Sort Visualizer here (replace with your live demo link).
 
 
-<h3>Features</h3>
+<h3>Features</h3><hr>
 - Generates a random array of elements for sorting.
 - Animates the sorting process step by step using colors and transitions to visualize element comparisons and swaps.
 - Provides controls to start and reset the sorting process.
@@ -16,9 +16,9 @@ You can view a live demo of the Bubble Sort Visualizer here (replace with your l
 <h3>Contribution are always welcome!</h3>
 If you would like to contribute to this project, please follow these steps:
 
-1.Fork the repository.
-2.Create a new branch (`git checkout -b feature-improvement`).
-3.Make your changes.
-4.Commit your changes (`git commit -am 'Add new feature'`).
-5.Push to the branch (`git push origin feature-improvement`).
-6.Create a new Pull Request.
+1.Fork the repository.<br>
+2.Create a new branch (`git checkout -b feature-improvement`).<br>
+3.Make your changes.<br>
+4.Commit your changes (`git commit -am 'Add new feature'`).<br>
+5.Push to the branch (`git push origin feature-improvement`).<br>
+6.Create a new Pull Request.<br>
